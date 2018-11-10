@@ -1,2 +1,3 @@
 # PhoneticTranscriptionAnalysisScripts
 # PhoneticTranscriptionManager
+# PhoneticTranscriptionAnalyzer
